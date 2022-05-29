@@ -1,12 +1,12 @@
 ---
-slug: first-blog-post
-title: First Blog Post
+slug: uzavření-bo
+title: Uzavření BO
 authors:
-  name: Gao Wei
-  title: Docusaurus Core Team
-  url: https://github.com/wgao19
-  image_url: https://github.com/wgao19.png
-tags: [hola, docusaurus]
+  name: CptGhost_Cz
+  title: Administrátor SCP Nadace
+  url: https://www.roblox.com/users/365993217/profile
+  image_url: https://tr.rbxcdn.com/cd701b5649ffd0eeac001efce21fe34c/150/150/AvatarHeadshot/Png
+tags: [UZAVŘENÍ ODDĚLENÍ, ODDĚLENÍ]
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet
+Dnešním dnem bylo Bezpečnostní Oddělení uzavřeno.
