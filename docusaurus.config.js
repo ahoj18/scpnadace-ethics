@@ -12,7 +12,8 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon:
+  'https://tr.rbxcdn.com/79eb47e4d93e668d4151420a62e0bea2/150/150/Image/Png',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
