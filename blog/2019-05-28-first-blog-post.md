@@ -9,4 +9,4 @@ authors:
 tags: [UZAVŘENÍ ODDĚLENÍ, ODDĚLENÍ]
 ---
 
-Dnešním dnem bylo Bezpečnostní Oddělení uzavřeno.
+Dnešním dnem bylo Bezpečnostní Oddělení uzavřeno. Z důvodu příliš velké aktivity na Oblasti-72.
