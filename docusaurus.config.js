@@ -82,10 +82,10 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Dokumentace:',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Etický Kodex',
                 to: '/docs/intro',
               },
             ],
@@ -94,11 +94,11 @@ const config = {
             title: 'Odkazy:',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Skupina Roblox:',
+                href: 'https://www.roblox.com/groups/8961727/SCP-Nadace#!/about',
               },
               {
-                label: 'Discord',
+                label: 'Komunikační Server Discord:',
                 href: 'https://discordapp.com/invite/docusaurus',
               },
               {
@@ -121,7 +121,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} SCP Nadace.`,
+        copyright: `Copyright © ${new Date().getFullYear()} SCP Nadace`,
       },
       prism: {
         theme: lightCodeTheme,
