@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'SCP Nadace',
   tagline: 'Dokumentace',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://scp-nadace.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
