@@ -30,7 +30,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="SCP Nadace <head />">
+      description="SCP Nadace | <head />">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
