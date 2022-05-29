@@ -68,9 +68,9 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: 'Dokumenty',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Aktuality', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
@@ -108,10 +108,10 @@ const config = {
             ],
           },
           {
-            title: 'More',
+            title: 'Ostatní:',
             items: [
               {
-                label: 'Blog',
+                label: 'Aktuality',
                 to: '/blog',
               },
               {
